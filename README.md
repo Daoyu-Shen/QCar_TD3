@@ -1,6 +1,6 @@
 # QCar_TD3
 This is an official code release for this project  
-__Quarter Car Suspension Control by Reinforcement Learning with TD3 agent__
++ __Quarter Car Suspension Control by Reinforcement Learning with TD3 agent__
 
 ## Introduction
 Coming with the rising focus of the driving comfort request, more efforts are being delivered into the study of suspension system. Comparing with other traditional control methods, the machine learning control strategy has demonstrated its optimality in dealing with different class of roads. The work presented in this paper is to apply twin delayed deep deterministic policy gradients (TD3) in suspension control which enables suspension controller to go beyond searching for an optimal set of system parameters from traditional control method in dealing with different class of pavements. To achieve this, a suspension model has been established together with a reinforcement learning algorithm and an input signal of pavement in this project. The performance of the twin delayed reinforcement agent is compared against deep deterministic policy gradients (DDPG) and deep Q-learning (DQN) algorithms under different types of pavement. The simulation result shows its superiority, robustness and learning efficiency over other reinforcement learning algorithms.
